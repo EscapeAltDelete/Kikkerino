@@ -18,7 +18,7 @@
 
 * **Looks bad:** Chat messages are gray and might be hard to read.
 
-* **Unofficial API:** This plugin relies on Kick's internal API and WebSocket structure, which Kick could change at any time without notice, potentially breaking the plugin.
+* **Unofficial API:** This plugin relies on Kick's internal API and WebSocket structure, which Kick could change at any time, potentially breaking the plugin.
 
 ### Disclaimer
 * This was made primarily with AI and prompt engineering.
