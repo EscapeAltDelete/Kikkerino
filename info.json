@@ -1,5 +1,6 @@
 {
   "name": "Kick Chat",
+  "homepage": "https://github.com/Chatterino/Chatterino2",
   "description": "Connects to Kick chat.",
   "authors": ["esc"],
   "version": "0.2.0",
