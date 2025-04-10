@@ -1,7 +1,7 @@
 {
   "name": "Kick Chat",
   "homepage": "https://github.com/EscapeAltDelete/Kikkerino",
-  "description": "Connects to Kick chat.",
+  "description": "A plugin that connects kick chat to Chatterino to view messages.",
   "authors": ["esc"],
   "version": "1.0.0",
   "license": "GPL-3.0-or-later",
