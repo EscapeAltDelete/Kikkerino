@@ -141,6 +141,5 @@ local function cmd_kick_handler(ctx)
 end
 
 c2.log(c2.LogLevel.Info, "[KickChatWS] Loading...")
-local registered_k, msg_k = pcall(c2.register_command, "/k", cmd_kick_handler)
-if not registered_k then log_err("Failed register /k:", msg_k); add_status_msg("FAILED register /k!")
-else add_status_msg("Loaded. /k <channel> | /k") end
+c2.register_command("/k", cmd_kick_handler) 
+add_status_msg("Loaded. /k <channel> | /k")
