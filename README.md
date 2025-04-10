@@ -11,7 +11,7 @@
 
   [Plugin Documentation](https://github.com/Chatterino/chatterino2/blob/master/docs/wip-plugins.md)
 
-### Known issues
+### Issues
 * **Read-Only:** This plugin currently only displays Kick chat messages. You cannot send messages through Chatterino.
 
 * **Unofficial API:** This plugin relies on Kick's internal API and WebSocket structure, which Kick could change at any time without notice, potentially breaking the plugin.
