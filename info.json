@@ -4,7 +4,7 @@
   "description": "Connects to Kick chat.",
   "authors": ["esc"],
   "version": "1.0.0",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "permissions": [
     {
       "type": "Network"
