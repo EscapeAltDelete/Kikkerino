@@ -1,0 +1,12 @@
+{
+  "name": "Kick Chat",
+  "description": "Connects to Kick chat.",
+  "authors": ["esc"],
+  "version": "0.2.0",
+  "license": "MIT",
+  "permissions": [
+    {
+      "type": "Network"
+    }
+  ]
+}
