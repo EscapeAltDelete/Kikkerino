@@ -12,13 +12,13 @@
   [Plugin Documentation](https://github.com/Chatterino/chatterino2/blob/master/docs/wip-plugins.md)
 
 ### Issues
-* **Read-Only:** This plugin currently only displays Kick chat messages. You cannot send messages through Chatterino.
-
-* **Unofficial API:** This plugin relies on Kick's internal API and WebSocket structure, which Kick could change at any time without notice, potentially breaking the plugin.
+* **Read-Only:** This plugin can't send Kick chat messages.
 
 * **No Emotes/Badges:** No emotes or user badges are displayed. Only plain text is shown.
 
 * **Looks bad:** Chat messages are gray and might be hard to read.
+
+* **Unofficial API:** This plugin relies on Kick's internal API and WebSocket structure, which Kick could change at any time without notice, potentially breaking the plugin.
 
 ### Disclaimer
 * This was made primarily with AI and prompt engineering.
