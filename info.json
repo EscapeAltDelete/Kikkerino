@@ -3,7 +3,7 @@
   "homepage": "https://github.com/EscapeAltDelete/Kikkerino",
   "description": "Connects to Kick chat.",
   "authors": ["esc"],
-  "version": "0.2.0",
+  "version": "0.1.0",
   "license": "MIT",
   "permissions": [
     {
