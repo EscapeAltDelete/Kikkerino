@@ -2,7 +2,7 @@ local RECONNECT_DELAY_SECONDS = 10
 local PUSHER_APP_KEY = "32cbd69e4b950bf97679"
 local PUSHER_URL_BASE = "wss://ws-us2.pusher.com/app/" .. PUSHER_APP_KEY
 local PUSHER_PARAMS = "?protocol=7&client=js&version=8.4.0"
-local PUSHER_CHAT_EVENT = "App\Events\ChatMessageEvent"
+local PUSHER_CHAT_EVENT = "App\\Events\\ChatMessageEvent"
 local API_CHANNEL_URL = "https://kick.com/api/v2/channels/"
 local API_SEND_URL_BASE = "https://kick.com/api/v2/messages/send/"
 
