@@ -49,7 +49,7 @@ local function handle_incoming_message(payload_str)
             if type(msg_data) == "table" then
                 if msg_data.content and msg_data.sender and msg_data.sender.username then
                     if target_chatterino_channel then
-                        target_chatterino_channel:add_system_message("[Kick] " .. msg_data.sender.username .. ": " .. msg_data.content)
+                        target_chatterino_channel:add_system_message("" .. msg_data.sender.username .. ": " .. msg_data.content)
                     end
                 end
             end
